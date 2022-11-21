@@ -1,0 +1,323 @@
+ body {
+   margin: 0px;
+   padding: 0px;
+   background-color: #f0e2bb;
+
+ }
+
+ .header {
+   background-image: url(img/header.svg);
+   width: 100%;
+
+ }
+
+ .header img {
+   width: 80px;
+   height: 80px;
+   margin-left: 300px;
+   margin-bottom: 20px;
+   margin-top: 30px;
+   border-radius: 50%;
+   margin-top: 40px;
+
+
+ }
+
+ .menu {
+   width: 66%;
+   padding: 20px;
+   font-family: 'Caveat', cursive;
+   font-size: 28px;
+   text-align: center;
+   white-space: nowrap;
+   margin-left: 200px;
+   margin-top: 10px;
+   position: relative;
+  
+
+
+
+ }
+          
+ .menuquemsoueu {
+   width: 66%;
+   padding: 20px;
+   font-family: 'Caveat', cursive;
+   font-size: 28px;
+   text-align: center;
+   white-space: nowrap;
+   margin-left: 160px;
+   margin-top: 10px;
+   
+
+
+ }
+ 
+   .menu a {
+   text-decoration: none;
+   color: inherit;
+    
+ }
+ 
+
+ .menuquemsoueu a {
+   text-decoration: none;
+   color: inherit;
+
+
+ }
+
+ .menu a {
+   text-decoration: none;
+   color: inherit;
+   
+ }
+
+ #principal {
+   color: white;
+   background-color: #333333;
+   padding: 20px;
+   pointer-events: none;
+   padding: 10px;
+   border-radius: 8px;
+     
+
+ }
+
+ #i:hover{
+  background-color: #3c496a;
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+    transition: linear 500ms;  
+  
+    
+ }
+
+
+ .banner1 {
+
+   margin-left: 200px;
+
+ }
+
+ .sectionprojetos {
+
+   margin-left: 220px;
+   margin-right: 100px;
+   
+
+ }
+
+ .sectionprojetos img {
+   width: 200px;
+
+ }
+
+ .sectionprojetos p {
+   font-size: 18px;
+   font-family: 'Open Sans', sans-serif;
+   letter-spacing: 1px;
+
+ }
+
+
+ .sectionprojetos h4 {
+   letter-spacing: 2px;
+ }
+
+ #titulosectionsprojetos {
+   margin-left: 220px;
+   font-family: 'Open Sans', sans-serif;
+
+
+ }
+ #fonteprojetos{
+  letter-spacing: 1px;
+  font-family: 'Open Sans', sans-serif;
+ }
+
+ .form-contatos {
+
+   margin-left: 220px;
+   margin-right: 100px;
+   margin-bottom: 10px;
+
+
+ }
+
+ .form-contatos td {
+   font-family: 'Open Sans', sans-serif;
+
+ }
+
+ .form-contatos textarea {
+   border-radius: 14px;
+   border: none;
+   resize: none;
+   padding: 10px;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 2px;
+   width: 300px;
+
+ }
+
+ .form-contatos input {
+   padding: 10px;
+   border-radius: 10px;
+   border: none;
+   width: 300px;
+
+ }
+
+ .banner1 h4 {
+   margin-right: 100px;
+
+ }
+
+ .habilidades-idiomas {
+
+   margin-left: 180px;
+   margin-bottom: 20px;
+
+
+ }
+
+ .habilidades-idiomas td {
+   width: 80px;
+   padding: 20px;
+   font-size: 18px;
+   font-weight: bold;
+
+ }
+
+ .tes {
+   width: 60%;
+   margin-left: 200px;
+   margin-top: 20px;
+   margin-bottom: 30px;
+
+
+ }
+
+ .tes td {
+   border-left-width: 0;
+
+
+ }
+
+
+ .tes p {
+
+   font-size: 15px;
+
+
+ }
+
+ .banner1 img {
+   width: 400px;
+   margin-left: 10px;
+   border-radius: 20px;
+   height: 300px;
+
+ }
+
+
+ .banner1 h3 {
+   font-family: 'Caveat', cursive;
+   color: white;
+   font-size: 26px;
+
+
+
+ }
+
+ .banner1 p {
+   font-family: 'Open Sans', sans-serif;
+
+ }
+
+ .banner1 a {
+   text-decoration: none;
+   color: black;
+
+
+
+ }
+
+ section h4 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+ }
+
+
+ section p {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px;
+
+ }
+
+
+
+ #btnContato {
+   background-color: #3c496a;
+   padding: 20px;
+   width: 100px;
+   color: white;
+   font-size: 14px;
+   text-align: center;
+   border-radius: 10px;
+
+ }
+
+ #btn-enviar {
+   color: white;
+   background-color: #3c496a;
+   padding: 10px;
+   width: 100px;
+   border-radius: 5px;
+   margin-bottom: 10px;
+   margin-right: 30px;
+   cursor: pointer;
+   
+  
+ }
+
+   
+
+ footer {
+   background-color: white;
+   position: relative;
+ }
+
+
+ footer img {
+   width: 80px;
+   margin-left: 600px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+
+
+ }
+
+ .nodecoration {
+   text-decoration: none;
+
+ }
+
+ .negrito {
+   font-weight: bold;
+ }
+
+ .maisnegrito {
+   font-weight: bolder;
+ }
+
+ .fonte-normal {
+   font-weight: normal;
+ }
+
+ .fonte {
+   font-size: 20px;
+ }
